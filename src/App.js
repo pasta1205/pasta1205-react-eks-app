@@ -7,7 +7,7 @@ function App() {
         fontFamily: "Arial",
       }}
     >
-      <h1>CI/CD Pipeline Successfully Triggered!</h1>
+      <h1>CI/CD Pipeline Successfully Triggered!🚀</h1>
 
       <h2>CI/CD Pipeline using Jenkins + Docker + Kubernetes</h2>
 
